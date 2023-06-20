@@ -2,6 +2,10 @@ Welcome to Lumache's documentation!
 ===================================
 
 Halo. How to add space plz help
+.. note: :
+   oh i see, it is more simple than i imagine.
+
+
 
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
