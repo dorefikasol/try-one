@@ -2,7 +2,9 @@ Welcome to Lumache's documentation!
 ===================================
 
 Halo. How to add space plz help
+
 .. note::
+
    oh i see, it is more simple than i imagine.
 
 
